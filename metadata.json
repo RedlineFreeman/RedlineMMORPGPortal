@@ -1,0 +1,6 @@
+{
+  "name": "Redline Portal & Family Hub",
+  "description": "Персональный семейный веб-портал: запуск сервисов, совместный чат, списки задач, закладки и мониторинг.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
